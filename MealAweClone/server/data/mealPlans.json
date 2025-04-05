@@ -1,0 +1,74 @@
+{
+  "2023-10-18": {
+    "breakfast": [
+      {
+        "id": "r3",
+        "title": "Berry Banana Smoothie Bowl",
+        "image": "https://source.unsplash.com/random/300x200/?smoothie-bowl",
+        "servings": 1,
+        "calories": 320
+      }
+    ],
+    "lunch": [
+      {
+        "id": "r1",
+        "title": "Mediterranean Chickpea Salad",
+        "image": "https://source.unsplash.com/random/300x200/?chickpea-salad",
+        "servings": 4,
+        "calories": 320
+      }
+    ],
+    "dinner": [
+      {
+        "id": "r2",
+        "title": "One-Pot Creamy Chicken Pasta",
+        "image": "https://source.unsplash.com/random/300x200/?chicken-pasta",
+        "servings": 4,
+        "calories": 520
+      }
+    ],
+    "snacks": [],
+    "createdAt": "2023-10-17T14:20:00.000Z",
+    "updatedAt": "2023-10-17T14:25:32.000Z"
+  },
+  "2023-10-19": {
+    "breakfast": [
+      {
+        "id": "r3",
+        "title": "Berry Banana Smoothie Bowl",
+        "image": "https://source.unsplash.com/random/300x200/?smoothie-bowl",
+        "servings": 1,
+        "calories": 320
+      }
+    ],
+    "lunch": [
+      {
+        "id": "r1",
+        "title": "Mediterranean Chickpea Salad",
+        "image": "https://source.unsplash.com/random/300x200/?chickpea-salad",
+        "servings": 4,
+        "calories": 320
+      }
+    ],
+    "dinner": [],
+    "snacks": [],
+    "createdAt": "2023-10-17T14:22:00.000Z",
+    "updatedAt": "2023-10-17T14:25:32.000Z"
+  },
+  "2023-10-20": {
+    "breakfast": [],
+    "lunch": [],
+    "dinner": [
+      {
+        "id": "r2",
+        "title": "One-Pot Creamy Chicken Pasta",
+        "image": "https://source.unsplash.com/random/300x200/?chicken-pasta",
+        "servings": 4,
+        "calories": 520
+      }
+    ],
+    "snacks": [],
+    "createdAt": "2023-10-17T14:23:00.000Z",
+    "updatedAt": "2023-10-17T14:25:32.000Z"
+  }
+}

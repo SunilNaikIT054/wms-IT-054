@@ -1,0 +1,176 @@
+[
+  {
+    "id": "r1",
+    "title": "Mediterranean Chickpea Salad",
+    "description": "A refreshing salad with chickpeas, cucumber, tomatoes, and feta cheese, dressed with lemon and olive oil.",
+    "image": "https://source.unsplash.com/random/300x200/?chickpea-salad",
+    "prepTime": 15,
+    "cookTime": 0,
+    "servings": 4,
+    "calories": 320,
+    "difficulty": "Easy",
+    "category": "lunch",
+    "rating": 4.8,
+    "featured": true,
+    "tags": ["vegetarian", "salad", "lunch", "mediterranean", "quick"],
+    "ingredients": [
+      { "name": "chickpeas", "quantity": "1", "unit": "can (15 oz)", "category": "Canned Goods" },
+      { "name": "cucumber", "quantity": "1", "unit": "medium", "category": "Produce" },
+      { "name": "cherry tomatoes", "quantity": "1", "unit": "cup", "category": "Produce" },
+      { "name": "red onion", "quantity": "1/4", "unit": "cup", "category": "Produce" },
+      { "name": "feta cheese", "quantity": "1/2", "unit": "cup", "category": "Dairy" },
+      { "name": "kalamata olives", "quantity": "1/4", "unit": "cup", "category": "Canned Goods" },
+      { "name": "fresh parsley", "quantity": "1/4", "unit": "cup", "category": "Produce" },
+      { "name": "olive oil", "quantity": "3", "unit": "tbsp", "category": "Condiments" },
+      { "name": "lemon juice", "quantity": "2", "unit": "tbsp", "category": "Produce" },
+      { "name": "garlic", "quantity": "1", "unit": "clove", "category": "Produce" },
+      { "name": "salt", "quantity": "1/2", "unit": "tsp", "category": "Spices" },
+      { "name": "black pepper", "quantity": "1/4", "unit": "tsp", "category": "Spices" }
+    ],
+    "instructions": [
+      { 
+        "title": "Prepare Vegetables", 
+        "description": "Dice cucumber, halve cherry tomatoes, and finely chop red onion and parsley."
+      },
+      { 
+        "title": "Mix Dressing", 
+        "description": "In a small bowl, whisk together olive oil, lemon juice, minced garlic, salt, and pepper."
+      },
+      { 
+        "title": "Combine Ingredients", 
+        "description": "In a large bowl, combine chickpeas, prepared vegetables, olives, and feta cheese."
+      },
+      { 
+        "title": "Add Dressing", 
+        "description": "Pour dressing over salad and toss to combine. Garnish with additional parsley if desired."
+      }
+    ],
+    "notes": [
+      "For meal prep, keep the dressing separate until ready to serve.",
+      "Add grilled chicken or shrimp for extra protein.",
+      "Can be stored in the refrigerator for up to 3 days."
+    ],
+    "nutrition": {
+      "calories": "320 kcal",
+      "protein": "12g",
+      "carbs": "32g",
+      "fat": "18g",
+      "fiber": "8g"
+    }
+  },
+  {
+    "id": "r2",
+    "title": "One-Pot Creamy Chicken Pasta",
+    "description": "A simple and delicious pasta dish made with tender chicken, creamy sauce, and fresh spinach, all in one pot!",
+    "image": "https://source.unsplash.com/random/300x200/?chicken-pasta",
+    "prepTime": 10,
+    "cookTime": 25,
+    "servings": 4,
+    "calories": 520,
+    "difficulty": "Medium",
+    "category": "dinner",
+    "rating": 4.7,
+    "featured": true,
+    "tags": ["dinner", "pasta", "chicken", "one-pot"],
+    "ingredients": [
+      { "name": "boneless chicken breast", "quantity": "1", "unit": "lb", "category": "Meat" },
+      { "name": "fettuccine pasta", "quantity": "8", "unit": "oz", "category": "Dry Goods" },
+      { "name": "garlic", "quantity": "3", "unit": "cloves", "category": "Produce" },
+      { "name": "chicken broth", "quantity": "2", "unit": "cups", "category": "Canned Goods" },
+      { "name": "heavy cream", "quantity": "1", "unit": "cup", "category": "Dairy" },
+      { "name": "parmesan cheese", "quantity": "1/2", "unit": "cup", "category": "Dairy" },
+      { "name": "fresh spinach", "quantity": "3", "unit": "cups", "category": "Produce" },
+      { "name": "olive oil", "quantity": "2", "unit": "tbsp", "category": "Condiments" },
+      { "name": "Italian seasoning", "quantity": "1", "unit": "tsp", "category": "Spices" },
+      { "name": "salt", "quantity": "1/2", "unit": "tsp", "category": "Spices" },
+      { "name": "black pepper", "quantity": "1/4", "unit": "tsp", "category": "Spices" },
+      { "name": "red pepper flakes", "quantity": "1/4", "unit": "tsp", "category": "Spices" }
+    ],
+    "instructions": [
+      { 
+        "title": "Prepare Chicken", 
+        "description": "Cut chicken into 1-inch pieces. Season with salt and pepper."
+      },
+      { 
+        "title": "Sauté Chicken", 
+        "description": "Heat olive oil in a large pot over medium heat. Add chicken and cook until golden, about 5-6 minutes. Add garlic and cook for 30 seconds."
+      },
+      { 
+        "title": "Add Liquids and Pasta", 
+        "description": "Add chicken broth, heavy cream, and Italian seasoning. Bring to a simmer. Add pasta and ensure it's fully submerged."
+      },
+      { 
+        "title": "Cook Pasta", 
+        "description": "Cover and cook for 10-12 minutes, stirring occasionally, until pasta is al dente and sauce has thickened."
+      },
+      { 
+        "title": "Add Spinach and Cheese", 
+        "description": "Stir in spinach and cook until wilted. Remove from heat and stir in parmesan cheese. Season with additional salt and pepper if needed."
+      }
+    ],
+    "notes": [
+      "For a lighter version, substitute half-and-half for the heavy cream.",
+      "Add mushrooms or sun-dried tomatoes for extra flavor.",
+      "Sprinkle with fresh basil before serving for a pop of color and flavor."
+    ],
+    "nutrition": {
+      "calories": "520 kcal",
+      "protein": "35g",
+      "carbs": "38g",
+      "fat": "26g",
+      "fiber": "3g"
+    }
+  },
+  {
+    "id": "r3",
+    "title": "Berry Banana Smoothie Bowl",
+    "description": "A delicious and nutritious breakfast bowl packed with mixed berries, banana, and topped with granola and nuts.",
+    "image": "https://source.unsplash.com/random/300x200/?smoothie-bowl",
+    "prepTime": 5,
+    "cookTime": 0,
+    "servings": 1,
+    "calories": 320,
+    "difficulty": "Easy",
+    "category": "breakfast",
+    "rating": 4.9,
+    "featured": true,
+    "tags": ["breakfast", "vegetarian", "smoothie", "quick", "gluten-free"],
+    "ingredients": [
+      { "name": "frozen mixed berries", "quantity": "1", "unit": "cup", "category": "Frozen" },
+      { "name": "banana", "quantity": "1", "unit": "medium", "category": "Produce" },
+      { "name": "Greek yogurt", "quantity": "1/2", "unit": "cup", "category": "Dairy" },
+      { "name": "almond milk", "quantity": "1/4", "unit": "cup", "category": "Dairy" },
+      { "name": "honey", "quantity": "1", "unit": "tbsp", "category": "Condiments" },
+      { "name": "granola", "quantity": "1/4", "unit": "cup", "category": "Dry Goods" },
+      { "name": "sliced almonds", "quantity": "1", "unit": "tbsp", "category": "Dry Goods" },
+      { "name": "chia seeds", "quantity": "1", "unit": "tsp", "category": "Dry Goods" },
+      { "name": "fresh berries", "quantity": "1/4", "unit": "cup", "category": "Produce" }
+    ],
+    "instructions": [
+      { 
+        "title": "Blend Base", 
+        "description": "In a blender, combine frozen berries, banana, Greek yogurt, almond milk, and honey. Blend until smooth and thick."
+      },
+      { 
+        "title": "Transfer to Bowl", 
+        "description": "Pour the smoothie mixture into a bowl. It should be thick enough to eat with a spoon."
+      },
+      { 
+        "title": "Add Toppings", 
+        "description": "Top with granola, sliced almonds, chia seeds, and fresh berries."
+      }
+    ],
+    "notes": [
+      "For a vegan version, use coconut yogurt instead of Greek yogurt.",
+      "Add a scoop of protein powder for extra protein.",
+      "Freeze the banana for an extra thick and cold smoothie bowl."
+    ],
+    "nutrition": {
+      "calories": "320 kcal",
+      "protein": "12g",
+      "carbs": "58g",
+      "fat": "8g",
+      "fiber": "10g"
+    }
+  }
+]
